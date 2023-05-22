@@ -11,7 +11,7 @@ function App() {
       id: 2,
       title: "Car Insurance",
       date: new Date(2021, 2, 12),
-      amount: 500.33,
+      amount: 500.32,
     },
     {
       id: 3,
